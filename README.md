@@ -7,19 +7,19 @@ gpt开发的学生管理系统，代码基本上用gpt生成，版本v2.0,用到
 
 登陆界面：
 
-![](.\screenprint\stu1.png)
+![](./screenprint/stu1.png)
 
 
 
 主界面：
 
-![](.\screenprint\stu2.png)
+![](./screenprint/stu2.png)
 
 
 
 增加：
 
-![](.\screenprint\stu3.png)
+![](./screenprint/stu3.png)
 
 
 
@@ -29,8 +29,8 @@ gpt开发的学生管理系统，代码基本上用gpt生成，版本v2.0,用到
 
 修改：
 
-![](.\screenprint\stu4.png)
+![](./screenprint/stu4.png)
 
 查询：
 
-![](.\screenprint\stu5.png)
+![](./screenprint/stu5.png)
